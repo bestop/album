@@ -1,9 +1,9 @@
 # Site settings
-title: *folio
+title: *iAlbum
 email: you@example.com
 description: > # this means to ignore newlines until "baseurl:"
   A simple, whitespace, helvetica based portfolio theme.
-baseurl: " " # the subpath of your site, e.g. /blog/
+baseurl: " /portfolio/ " # the subpath of your site, e.g. /blog/
 url:  a1.hijoe.net
 twitter_username: twitter_username
 github_username:  github_username
@@ -22,7 +22,7 @@ collections:
     output: true
     permalink: /portfolio/:path/
   poetry:
-    output: true
+    output: false
     permalink: /poetry/:path/
 
 
