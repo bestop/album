@@ -2,7 +2,7 @@
 layout: post
 title: Photo
 description: Josh image
-img: /img/josh/1.jpg
+img: /img/josh/8.jpg
 ---
 
 <div class="img_row">
