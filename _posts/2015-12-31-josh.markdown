@@ -1,0 +1,40 @@
+---
+layout: post
+title:  Josh image
+date: 2015-12-31 13:10:00
+description: Photos of Josh
+---
+Time Well Spent 
+ See tiny fingers and tiny toes, 
+ Bright baby eyes, cute baby nose; 
+ Hear baby gurgles and baby sighs, 
+ As Mom and Dad sing lullabies. 
+ Life is changed, but that’s okay; 
+ It’s fun to spend glad hours each day, 
+ Taking time for all the good, 
+ That comes along with parenthood. 
+By Joanna Fuchs 
+
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/josh/8.jpg">
+</div>
+<div class="col three caption">
+	Josh image 
+</div>
+
+<div class="img_row">
+	<img class="col two" src="{{ site.baseurl }}/img/josh/13.jpg">
+	<img class="col one" src="{{ site.baseurl }}/img/josh/14.jpg">
+</div>
+<div class="col three caption">
+	Josh image 
+</div>
+
+<div class="img_row">
+	<img class="col one" src="{{ site.baseurl }}/img/josh/3.jpg">
+	<img class="col one" src="{{ site.baseurl }}/img/josh/10.jpg">
+	<img class="col one" src="{{ site.baseurl }}/img/josh/25.jpg">
+</div>
+<div class="col three caption">
+	Josh image 
+</div>
